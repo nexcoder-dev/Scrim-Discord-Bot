@@ -59,20 +59,6 @@ Place your screenshots inside:
 src/assets/
 ```
 
-Then add:
-
-```
-![Scrim Map](src/assets/WhatsApp_Image_2025-07-02_at_14.44.26_37582c76.jpg)
-```
-
-You can also add screenshots of:
-
-* Enrollment channel
-* Modal form
-* Scrim status embed
-
----
-
 ## ⚙️ Installation
 
 ### 1. Clone Repository
