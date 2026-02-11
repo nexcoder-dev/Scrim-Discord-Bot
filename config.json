@@ -1,0 +1,29 @@
+{
+  "bot": {
+    "token": "",
+    "id": "",
+    "admins": [
+      "ADMIN_1",
+      "ADMIN_2"
+    ],
+    "ownerId": "",
+    "developerCommandsServerIds": [
+      ""
+    ]
+  },
+  "database": {
+    "mongodbUrl": ""
+  },
+  "logging": {
+    "guildJoinLogsId": "",
+    "guildLeaveLogsId": "",
+    "commandLogsChannelId": "",
+    "errorLogs": "",
+    "SCRIM_CHANNEL_ID": "",
+    "LOG_CHANNEL_ID": ""
+  },
+  "prefix": {
+    "value": "dr!"
+  },
+  "publicLogChannelId": ""
+}
