@@ -186,4 +186,4 @@ Sayan
 Backend Developer
 
 For commercial licensing inquiries:
-gsa339402@gmai.com
+gsa339402@gmail.com
